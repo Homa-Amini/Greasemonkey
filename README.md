@@ -1,4 +1,6 @@
-UU
+Greasemonkey Presentation
 ==
 
-UU School project
+A brief introduction of greasemonkey extension.
+I used greasemonkey to get accomodation on a housing website (Heimstaden)
+in Sweden.
